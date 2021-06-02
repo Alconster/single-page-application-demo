@@ -1,0 +1,57 @@
+body{
+    padding: 1.5rem;
+    font-family:Arial, Helvetica, sans-serif ;
+    background-color: #f1f3f6;
+}
+
+h3{
+    border-left-color: #e3e5e9;
+    color: #8189a0;
+}
+
+hr{
+    color: #e4e6e9;
+}
+
+.actions{
+    border: solid 1px #e4e6e9;
+    background-color: #ffff;
+    padding: 1rem;
+    border-radius: 1%;
+}
+
+.tables{
+    width: 100%;
+}
+
+table, tr, td{
+    border:  1px;
+    background-color: #f1f3f6;
+    color: #8189a0;
+    border-radius: 7px;
+}
+
+#invoicesTable{
+    border: solid 1px #e4e6e9;
+    background-color: #ffff;
+    padding: 1rem;
+    border-radius: 1%;
+}
+
+#addNewButton {
+    color: #f4f6fb;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    background-color: #466eff;
+}
+
+#addNewButton:hover{
+    background-color: #20378b;
+    cursor: pointer;
+}
+
+#title{
+    border: 2rem;
+    border-color: black;
+}
